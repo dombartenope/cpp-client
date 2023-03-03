@@ -1,0 +1,14 @@
+/Users/dominickbartenope/projects/cpp-client/CMakeFiles/tests.dir
+/Users/dominickbartenope/projects/cpp-client/CMakeFiles/edit_cache.dir
+/Users/dominickbartenope/projects/cpp-client/CMakeFiles/rebuild_cache.dir
+/Users/dominickbartenope/projects/cpp-client/CMakeFiles/list_install_components.dir
+/Users/dominickbartenope/projects/cpp-client/CMakeFiles/install.dir
+/Users/dominickbartenope/projects/cpp-client/CMakeFiles/install/local.dir
+/Users/dominickbartenope/projects/cpp-client/CMakeFiles/install/strip.dir
+/Users/dominickbartenope/projects/cpp-client/deps/onesignal/CMakeFiles/CppRestOneSignalAPIClient.dir
+/Users/dominickbartenope/projects/cpp-client/deps/onesignal/CMakeFiles/edit_cache.dir
+/Users/dominickbartenope/projects/cpp-client/deps/onesignal/CMakeFiles/rebuild_cache.dir
+/Users/dominickbartenope/projects/cpp-client/deps/onesignal/CMakeFiles/list_install_components.dir
+/Users/dominickbartenope/projects/cpp-client/deps/onesignal/CMakeFiles/install.dir
+/Users/dominickbartenope/projects/cpp-client/deps/onesignal/CMakeFiles/install/local.dir
+/Users/dominickbartenope/projects/cpp-client/deps/onesignal/CMakeFiles/install/strip.dir
